@@ -23,13 +23,6 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
 Clone the repository and change the directory to alx-project-0x00-setup
 
-``` 
-  $ git clone git@github.com:Felix45/alx-project-0x00-setup.git
-
-  $ cd alx-project-0x00-setup
-
-```
-
 ### Install
 Install all project dependencies by running the command below
  
@@ -41,25 +34,6 @@ Start the pplication server
 ``` 
   $ npm run dev
 ```
-
-### Deployment
-- [Visit Application Homepage](http://localhost:3000)
-
-
-
-### Authors
-
-| 👤 Name | Github | Twitter | LinkedIn |
-|:------|:--------|:---------|:----------|
-|Felix Ouma|[@Felix45](https://github.com/Felix45)|[@Felix_Atonoh](https://twitter.com/Felix_Atonoh)|[LinkedIn](https://www.linkedin.com/in/felix-ouma/)|
-
-
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/Felix45/alx-project-0x00-setup/issues).
 
 ## Show your support
 
